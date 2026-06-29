@@ -1,0 +1,44 @@
+[
+  {
+    "id": "tee-pollar",
+    "name": "Pollar Tee",
+    "description": "Soft cotton tee with the Pollar mark. Pay in USDC, ship anywhere.",
+    "price": "12.00",
+    "image": "https://picsum.photos/seed/pollar-tee/600/600"
+  },
+  {
+    "id": "mug-stellar",
+    "name": "Stellar Mug",
+    "description": "Ceramic mug for the testnet grind. Holds 350ml of focus.",
+    "price": "8.50",
+    "image": "https://picsum.photos/seed/stellar-mug/600/600"
+  },
+  {
+    "id": "cap-lumen",
+    "name": "Lumen Cap",
+    "description": "Six-panel cap, adjustable. Keeps the sun off while you sign.",
+    "price": "15.00",
+    "image": "https://picsum.photos/seed/lumen-cap/600/600"
+  },
+  {
+    "id": "stickers-pack",
+    "name": "Sticker Pack",
+    "description": "Ten die-cut vinyl stickers. The cheapest way to test a checkout.",
+    "price": "3.00",
+    "image": "https://picsum.photos/seed/sticker-pack/600/600"
+  },
+  {
+    "id": "hoodie-soroban",
+    "name": "Soroban Hoodie",
+    "description": "Heavyweight hoodie. For contract devs who feel the cold.",
+    "price": "29.00",
+    "image": "https://picsum.photos/seed/soroban-hoodie/600/600"
+  },
+  {
+    "id": "bottle-testnet",
+    "name": "Testnet Bottle",
+    "description": "Insulated steel bottle. Friendbot not included.",
+    "price": "18.00",
+    "image": "https://picsum.photos/seed/testnet-bottle/600/600"
+  }
+]

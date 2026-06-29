@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+/* Pollar light theme — violet primary on white, neutral grays.
+   Reference branding: https://pollar.xyz */
+:root {
+  --pollar-primary: #7c3aed; /* violet-600 */
+  --pollar-bg: #ffffff;
+  --pollar-fg: #171717;
+}
+
+html {
+  color-scheme: light;
+}
+
+body {
+  font-family:
+    var(--font-geist-sans),
+    ui-sans-serif,
+    system-ui,
+    sans-serif;
+}
